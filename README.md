@@ -21,4 +21,4 @@
    ```
    docker-compose down
    ```
- # Real Time screenshots in Artifacts file.
+ # Real Time screenshots in provided in Artifacts file.
