@@ -1,2 +1,24 @@
-# docker-flask-postgres
-This repository contains a Flask web application connected to a PostgreSQL database, fully containerized using Docker and Docker Compose. It demonstrates how to build, configure, and deploy a multi-container application efficiently.
+# Flask + PostgreSQL with Docker
+
+1. Clone this repository:  
+   ```
+   git clone https://github.com/yourusername/docker-flask-postgres.git
+   cd docker-flask-postgres
+   ```
+2. Start the application using Docker Compose:  
+   ```
+   docker-compose up -d
+   ```
+3. Check if the app is running:  
+   ```
+   curl http://localhost:5000/
+   ```
+4. Verify database connection:  
+   ```
+   curl http://localhost:5000/db
+   ```
+5. To stop the containers:  
+   ```
+   docker-compose down
+   ```
+ 
