@@ -2,7 +2,7 @@
 
 1. Clone this repository:  
    ```
-   git clone https://github.com/yourusername/docker-flask-postgres.git
+   git clone https://github.com/Mohamed-Akram26/docker-flask-postgres.git
    cd docker-flask-postgres
    ```
 2. Start the application using Docker Compose:  
